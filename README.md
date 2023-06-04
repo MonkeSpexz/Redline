@@ -9,7 +9,7 @@ Someone reported the Discord server and got it taken down. I'm working on settin
 
 ## Loadstring  
 ```lua
-loadstring(game:HttpGet('https://raw.githubusercontent.com/topitbopit/Redline/main/loader.lua'))()  
+loadstring(game:HttpGet('https://raw.githubusercontent.com/MonkeSpexz/Redline/main/beta.lua'))()  
 ```
 ## What is Redline?  
 Redline is a massive universal script based on many popular Minecraft hacked clients. It's customizable, easy to use, and packed with features.  
@@ -22,9 +22,9 @@ Redline is a massive universal script based on many popular Minecraft hacked cli
 - **It has too many features.** Most scripts just have aimbot, esp, and flight if you're lucky. Redline has everything.  
 
 ## Screenshots  
-![](https://raw.githubusercontent.com/topitbopit/Redline/main/assets/features.jpg)  
-![](https://raw.githubusercontent.com/topitbopit/Redline/main/assets/gamedemo1.jpg)  
-![](https://raw.githubusercontent.com/topitbopit/Redline/main/assets/gamedemo2.jpg)  
+![](https://raw.githubusercontent.com/MonkeSpexz/Redline/main/assets/features.jpg)  
+![](https://raw.githubusercontent.com/MonkeSpexz/Redline/main/assets/gamedemo1.jpg)  
+![](https://raw.githubusercontent.com/MonkeSpexz/Redline/main/assets/gamedemo2.jpg)  
 
 ## Q/A  
 - **How do I use Redline?**  
